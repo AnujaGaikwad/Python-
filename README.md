@@ -1,6 +1,7 @@
 Python Tutorial 
-Pratice Set programs of python performed by me.
-By completing the outlined Python programming course, I leaned a wide range of foundational and advanced concepts in Python programming. Here’s a breakdown of what you can learn from each chapter and project:
+Practice Python Programs.
+Pratice Set problems of Python programs performed by me.
+By completing the outlined Python programming course, I learned a wide range of foundational and advanced concepts in Python programming. Here’s a breakdown of what you can learn from each chapter and project:
 
 ### Learning Outcomes
 
@@ -52,7 +53,7 @@ By completing the outlined Python programming course, I leaned a wide range of f
 - Learn how to read from and write to files, enabling data persistence in Python applications.
 - Understand how to handle files safely and perform error handling.
 
-#### Chapter 10: Object Oriented Programming
+#### Chapter 10: Object-Oriented Programming
 - Gain a foundational understanding of OOP concepts such as classes, objects, methods, and attributes.
 - Learn how to model real-world problems using classes and objects.
 
@@ -67,16 +68,16 @@ By completing the outlined Python programming course, I leaned a wide range of f
 - Explore more complex Python concepts and advanced features such as decorators and context managers.
 
 #### Chapter 13: Advanced Python 2
-- Delve deeper into advanced topics like generators and the itertools module.
+- Delve deeper into advanced topics like generators and the tools module.
 
 #### Mega Project 1: Jarvis
 - Implement a comprehensive project integrating various concepts learned throughout the course, demonstrating your proficiency in Python.
 
 #### Mega Project 2: Auto Reply AI Chatbot
-- Create an AI chatbot application, applying machine learning or rule-based approaches to respond to user queries.
+- Create an AI chatbot application,applying machine learning or rule-based approaches to respond to user queries.
 
 ### Conclusion
-- Reflect on your learning journey, consolidate your understanding, and explore next steps for furthering your Python programming skills.
+- Reflect on your learning journey, consolidate your understanding, and explore the next steps for furthering your Python programming skills.
 
 ### Overall Skills Developed:
 - Problem-solving and logical thinking through programming.
@@ -85,4 +86,4 @@ By completing the outlined Python programming course, I leaned a wide range of f
 - Practical experience through projects and exercises.
 - Ability to think algorithmically and design your own programs.
 
-By the end of the course,I'll be well-equipped with the knowledge and skills to tackle a variety of programming challenges, build your own applications, and continue learning more about software development.
+By the end of the course, I'll be well-equipped with the knowledge and skills to tackle a variety of programming challenges, build your applications, and continue learning more about software development.
