@@ -1,8 +1,7 @@
-# 5! = 1 x 2 x 3 x 4 x 5 
+def inch_to_cms(inch):
+    return inch * 2.54
 
-n = int(input("Enter a number: "))
-product = 1
-for i in range(1, n+1):
-    product = product * i
+n = int(input("Enter value in inches: "))
 
-print(f"Factorial of {n} is {product}")
+
+print(f"The corresponding value in cms is {inch_to_cms(n)}")

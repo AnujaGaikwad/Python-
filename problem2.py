@@ -1,5 +1,6 @@
-l = ["Harry", "Soham", "Sachin", "Rahul"]
+def f_to_c(f):
+    return 5*(f-32)/9
 
-for name in l:
-    if(name.startswith("S")):
-        print(f"Hello {name}")
+f = int(input("Enter temperature in F: "))
+c = f_to_c(f)
+print(f"{round(c, 2)}°C")
