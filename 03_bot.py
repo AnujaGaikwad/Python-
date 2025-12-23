@@ -5,7 +5,7 @@ import pyperclip
 from google import genai
 from google.genai.types import Content, Part
 
-client = genai.Client(api_key="AIzaSyCRe3W0m-OS0cqb-H33Uvq5vL-qUMz5Ea0")
+client = genai.Client(api_key="")
 
 def should_reply(chat_log, blocked_sender="anu"):
     lines = chat_log.strip().splitlines()
@@ -89,3 +89,4 @@ while True:
 
         # Step 7: Send
         pyautogui.press("enter")
+
