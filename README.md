@@ -8,10 +8,6 @@ By completing the outlined Python programming course, I learned a wide range of 
 #### Introduction
 - Understand the objectives of the course and get an overview of programming in general.
 
-#### Chapter 0: What is Programming?
-- Gain a clear understanding of programming concepts and terminology.
-- Learn about the role of programming in problem-solving and software development.
-
 #### Chapter 1: Modules, Comments & pip
 - Learn how to use modules and packages in Python.
 - Understand the importance of comments for code readability.
