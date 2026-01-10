@@ -70,12 +70,6 @@ By completing the outlined Python programming course, I learned a wide range of 
 #### Chapter 13: Advanced Python 2
 - Delve deeper into advanced topics like generators and the tools module.
 
-#### Mega Project 1: Jarvis
-- Implement a comprehensive project integrating various concepts learned throughout the course, demonstrating your proficiency in Python.
-
-#### Mega Project 2: Auto Reply AI Chatbot
-- Create an AI chatbot application,applying machine learning or rule-based approaches to respond to user queries.
-
 ### Conclusion
 - Reflect on your learning journey, consolidate your understanding, and explore the next steps for furthering your Python programming skills.
 
